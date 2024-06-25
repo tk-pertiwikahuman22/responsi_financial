@@ -2,6 +2,6 @@ streamlit
 numpy
 pandas
 yfinance
-sklearn
+scikit-learn
 tensorflow
 altair
